@@ -7,8 +7,8 @@
 <br/>
 
 🧑 Quem sou eu ? 
-
- ![code2](https://user-images.githubusercontent.com/100795687/185031867-74e01cd6-b250-4cda-a124-78f20c19305b.png)
+ 
+ ![code2](https://user-images.githubusercontent.com/100795687/185032048-caec600c-e22b-493e-a72a-ef154f0fa29c.png)
 
   *Futuro engenheiro de software e desenvolvedor mobile aficionado por tecnologia e um dos maiores apoiadores das mudanças que os aplicativos proporcionaram a toda humanidade!*
 
