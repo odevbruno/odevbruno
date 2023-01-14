@@ -29,8 +29,8 @@
 <img align="center" alt="html5" src="https://aleen42.github.io/badges/src/photoshop.svg">
  </div><br/><br/><br/>
 
-⭐ Informações adicionais sobre minha conta do GitHub 
+<!-- ⭐ Informações adicionais sobre minha conta do GitHub 
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=odevbruno&show_icons=true&theme=radical)
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=odevbruno&show_icons=true&theme=radical) -->
 
 <br/>
