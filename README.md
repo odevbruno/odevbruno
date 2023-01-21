@@ -4,13 +4,13 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-oliveira-7294a421b/)
 
 <br/>
-
+<!-- 
 🧑 Quem sou eu ? 
  
  ![code2](https://user-images.githubusercontent.com/100795687/185032048-caec600c-e22b-493e-a72a-ef154f0fa29c.png)
 
   *Futuro engenheiro de software e desenvolvedor mobile aficionado por tecnologia e um dos maiores apoiadores das mudanças que os aplicativos proporcionaram a toda humanidade!*
-
+ -->
 
 <br/>
 <br/>
