@@ -1,19 +1,19 @@
 ## Olá, seja bem vindo(a) ! 👋
 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-oliveira-7294a421b/)
-
-<br/>
-
- 🚀 Minhas skills
+[![My Skills](https://skillicons.dev/icons?i=linkedin,instagram&perline=3)](https://www.linkedin.com/in/bruno-oliveira-7294a421b/)
 
  *Frameworks and HTML*
  
- [![My Skills](https://skillicons.dev/icons?i=html,js,ts,react,nextjs,androidstudio,docker&perline=3)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,js,ts,materialui,react,nextjs,redux,androidstudio,nodejs,prisma,kafka,rabbitmq,docker,git,github,jest,postman,vscode,&perline=4)](https://skillicons.dev)
+
+ *Stylization*
+ 
+ [![My Skills](https://skillicons.dev/icons?i=css,sass,tailwindcss,styledcomponents&perline=4)](https://skillicons.dev)
+
 
  *Databases*
  
- [![My Skills](https://skillicons.dev/icons?i=firebase&perline=3)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,postgres&perline=3)](https://skillicons.dev)
 
  *UI/UX*
  
