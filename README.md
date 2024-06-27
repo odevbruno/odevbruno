@@ -19,7 +19,7 @@ Dentro do vasto panorama do desenvolvimento de software, minhas principais área
 
 - **Bancos de Dados**:
 
- [![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,postgres&perline=3)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=firebase,mongodb&perline=3)](https://skillicons.dev)
 
 
 - **Design de UI/UX**: 
